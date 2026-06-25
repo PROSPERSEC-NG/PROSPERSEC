@@ -1,14 +1,20 @@
 # Resources
 
-A curated list of links, books, videos, tools, and reference materials useful for cybersecurity study and practice.
+This folder contains cybersecurity books, websites, tools, YouTube channels and study materials.
 
-## Sections
+## Categories
 
-- Books — recommended reading and brief notes
-- Websites — blogs, vendor documentation, RFCs
-- Videos & Courses — playlists and course links
-- Tools — installation notes and quick-starts (e.g., Wireshark, Metasploit, Nmap)
-- Cheat Sheets — commands and quick references
+- Books
+- Websites
+- Tools
+- Labs
+- Certifications
+- YouTube Channels
+- Portfolio
+- Policies
+- Incident-Response
+- Cloud-Security
+- Linux
 
 How to contribute:
 - Add links, short summaries, and notes with the source and date.
