@@ -1,11 +1,12 @@
 # Certifications
 
-List of cybersecurity certifications, study notes, and links to exam resources.
+This folder contains cybersecurity certifications earned during my professional development journey.
 
-Examples:
-- CompTIA Security+ — study notes, practice questions
-- Certified Ethical Hacker (CEH) — lab exercises
-- CISSP — domain outlines and resources
+## Planned Certifications
 
-How to use:
-- Add study notes, practice questions, lab links, and exam scheduling details here.
+- CompTIA A+
+- CompTIA Network+
+- CompTIA Security+
+- ISC2 Certified in Cybersecurity (CC)
+- Google Cybersecurity Certificate
+- Microsoft Security Certifications
